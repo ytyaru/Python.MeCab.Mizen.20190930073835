@@ -2,13 +2,14 @@
 
 　未然形にする。
 
+* [辞書作成スクリプト](https://github.com/ytyaru/Shell.MeCab.IpaDic.Charset.Convert.20190823193042)
+
 # 開発環境
 
 * <time datetime="2019-09-30T07:38:09+0900">2019-09-30</time>
 * [Raspbierry pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 3 Model B+
     * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) 9.0 stretch 2018-11-13 Desktop
         * bash 4.4.12(1)-release
-        * 
         * Python 3.5.3
 
 ```sh
