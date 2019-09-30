@@ -9,7 +9,7 @@ def prints(words):
     for word in words:
         if word is not None: print(word)
 
-words = ['走る','押す','愛する','見る','食べる','来る']
+words = ['走る','押す','愛する','見る','食べる','来る', '悲しい', 'ござる']
 for word in words:
     print('===== {} ====='.format(word))
     rows = p.get(word)
